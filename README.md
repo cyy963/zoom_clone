@@ -13,7 +13,7 @@
   </div>
 
   <h3 align="center">A Zoom Clone</h3>
-  <h3>Check out the live site: https://zoom-case-study.vercel.app/</h3>
+  <h4>Check out the live site: https://zoom-case-study.vercel.app/</h4>
 
 </div>
 
